@@ -10,8 +10,4 @@
 - CSV export via Pandas
 - Logging support
 
-## Run Instructions
-
-```bash
-python main.py     # Console
 
