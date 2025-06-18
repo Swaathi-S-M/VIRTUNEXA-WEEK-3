@@ -1,0 +1,17 @@
+2025-06-07 19:32:26,087 - INFO - Added income | Category: Salary | Amount: 300000.0 | Date: 2025-06-07
+2025-06-07 19:32:46,547 - INFO - Added expense | Category: Food | Amount: 12000.0 | Date: 2025-06-07
+2025-06-07 19:33:13,963 - INFO - Performed calculation: 2.0 / 3.0 = 0.6666666666666666
+2025-06-07 19:33:48,217 - INFO - Session ended by user.
+2025-06-07 19:34:11,289 - INFO - Added income | Category: Salary | Amount: 250000.0 | Date: 2025-06-07
+2025-06-07 19:34:23,635 - INFO - Added expense | Category: Food | Amount: 25000.0 | Date: 2025-06-07
+2025-06-07 19:36:10,135 - INFO - Session ended by user.
+2025-06-07 19:36:32,919 - INFO - Added income | Category: Salary | Amount: 250000.0 | Date: 2025-06-07
+2025-06-07 19:36:45,671 - INFO - Added expense | Category: Food | Amount: 25000.0 | Date: 2025-06-07
+2025-06-07 19:45:23,744 - INFO - Transaction added: income - Salary - 100000.0 - 2025-06-07
+2025-06-07 19:45:42,441 - INFO - Transaction added: expense - Food - 10000.0 - 2025-06-07
+2025-06-07 19:49:02,426 - INFO - Transaction added: income - Salary - 250000.0 - 2025-06-07
+2025-06-07 19:49:21,362 - INFO - Transaction added: expense - Food - 10000.0 - 2025-06-07
+2025-06-07 19:50:10,805 - INFO - Transaction added: income - Salary - 250000.0 - 2025-07-07
+2025-06-07 19:50:27,306 - INFO - Transaction added: expense - Donation - 50000.0 - 2025-07-07
+2025-06-07 19:50:47,533 - INFO - Transaction added: expense - Food - 2000.0 - 2025-07-17
+2025-06-07 19:51:42,640 - INFO - Transaction added: income - Bonus - 100000.0 - 2025-06-07
